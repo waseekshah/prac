@@ -1,6 +1,8 @@
 n = 10
 num1 = 0
 num2 = 1
+num=3
+print("sssss")
 next_number = num2 
 count = 1
 
